@@ -1,0 +1,7 @@
+MongoLab:
+Livne
+ok76tr
+
+"grandma_db" : 
+user : grandma
+pass: herbals
